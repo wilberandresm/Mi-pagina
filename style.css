@@ -1,0 +1,53 @@
+
+body
+{
+ background-color: #E0FFFF;
+
+}
+#titulo{
+  text-align: left;
+}
+
+
+#imagen{
+
+  margin-top: 20px;
+  margin-right: 20px;
+  margin-left: auto;
+}
+.perfil{
+
+  margin-right: 50px;
+}
+#datos{
+
+  margin-top: 20px;
+
+}
+#formacion_academica{
+
+   margin-top: 100px;
+   margin-left: 20px;
+}
+#Experiencia_laboral{
+  margin-top: 50px;
+  margin-left:20px;
+}
+
+.fab{
+  font-size: 25px;
+  padding-top: 25%;
+  padding-bottom: 35%;
+}
+
+.fa-facebook {
+  color: rgb(59, 91, 152);
+}
+
+.fa-twitter-square {
+  color: rgb(0, 172, 237);
+}
+
+.fa-instagram{
+  color: rgb(205, 72, 107);
+}
